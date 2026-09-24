@@ -1,2 +1,2 @@
-# arnam.github.io
+# arnamdarealguy.github.io
 This is the official repo for my website.
